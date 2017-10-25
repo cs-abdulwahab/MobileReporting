@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bLogin" type="id" />
+    <item name="tvRegisterHere" type="id" />
+    <item name="tvwelcomeMessage" type="id" />
+</resources>

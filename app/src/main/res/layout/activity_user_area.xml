@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mujahid.mobilereporting.UserAreaActivity">
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="319dp"
+        android:layout_height="37dp"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:text="Username"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="49dp" />
+
+    <EditText
+        android:id="@+id/etAge"
+        android:layout_width="317dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Age"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="97dp" />
+
+    <TextView
+        android:id="@+id/tvWelcomeMsg"
+        android:layout_width="194dp"
+        android:layout_height="37dp"
+        android:text="WelcomeMessage"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="5dp" />
+</android.support.constraint.ConstraintLayout>
+
+

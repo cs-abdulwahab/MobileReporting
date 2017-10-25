@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/db" android:title="Dashboard" android:icon="@drawable/ic_003_four_squares_with_frame_shape"/>
+
+    <item android:id="@+id/vidoes" android:title="Videos"  android:icon="@drawable/ic_003_video_player"/>
+
+    <item android:id="@+id/bidlist" android:title="Bidlist" android:icon="@drawable/ic_002_auction"/>
+
+    <item android:id="@+id/settings" android:title="Setting" android:icon="@drawable/ic_001_settings"/>
+
+    <item android:id="@+id/help" android:title="Help" android:icon="@drawable/ic_001_information"/>
+
+    <item android:id="@+id/logout" android:title="Logout " android:icon="@drawable/ic_002_logout"
+        />
+</menu>
